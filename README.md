@@ -7,9 +7,8 @@
 ```javascript
 const yaman = {
   pronouns: "she" | "her",
-  code: [Javascript,  HTML, CSS, c#, Java],
-  tools: [React js, Node js],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [HTML,CSS,Javascript,C++ C#],
+  tools: [React js, Node js]
 }
 ```
 
