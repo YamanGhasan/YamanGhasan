@@ -8,16 +8,6 @@
 const yaman = {
   pronouns: "she" | "her",
   codeAndTools: [
-    "Python",
-    "Java",
-    "HTML5",
-    "CSS3",
-    "React",
-    "Git",
-    "GitHub",
-    "Canva"
-  ]
-};
 ```
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
