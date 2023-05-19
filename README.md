@@ -6,6 +6,7 @@
 
  <h2>
 const yaman = {
+  <br>
   pronouns: "she" | "her",
   <br>
   codeAndTools: [
