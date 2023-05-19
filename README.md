@@ -26,7 +26,7 @@ const yaman = {
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><h2>]};</h2>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /> 
 
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
