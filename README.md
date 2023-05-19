@@ -6,7 +6,8 @@
 
  <h2>
 const yaman = {
-  pronouns: "she" | "her",<h>
+  pronouns: "she" | "her",
+  <br>
   codeAndTools: [
  </h2>
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
